@@ -23,7 +23,9 @@ Decoded data is sent to a PC over UART and displayed live in a terminal window (
 - **Remote Control** sends OOK (on-off keying) pulses at 433 MHz.
 - **RXB6 Module** picks up the RF pulses.
 - **Nexys A7 FPGA** measures pulse widths and decodes them with a custom FSM.
+- **Verilog FSM Decoder** detects pulse width timing and converts it to binary data.
 - **UART Transmitter** sends decoded bits to a PC terminal over USB.
+- **PC Terminal (PuTTY)** displays decoded packets live on the computer screen.
 
 ---
 
