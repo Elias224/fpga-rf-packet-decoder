@@ -7,7 +7,7 @@ This project decodes 433.920 MHz RF signals from wireless remotes in real-time u
 The RF pulse train is captured by a receiver module and decoded by a finite state machine (FSM), then output over UART to a terminal.
 
 ## ⚙️ System Architecture
-
+ 
 
 *Planned stretch goal: Add OLED display output using SSD1306 module via I2C.*
 
