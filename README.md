@@ -47,7 +47,7 @@ Decoded data is sent to a PC over UART and displayed live in a terminal window (
 
 - RTL-SDR capture working ✅
 - RXB6 module testing in progress 🛠️
-- FSM design started 🛠️
+- FSM design started 🛠️ 
 - UART output module in planning phase 🛠️
 
 ---
