@@ -21,7 +21,7 @@ Decoded data is sent to a PC over UART and displayed live in a terminal window (
 
 ## System Overview
 
-![System Diagram](doc/system_block_diagram.png)
+![System Diagram](doc/system_block_diagram)
 
 - **Remote Control** sends OOK (on-off keying) pulses at 433 MHz.
 - **RXB6 Module** picks up the RF pulses.
